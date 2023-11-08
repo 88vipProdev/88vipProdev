@@ -2,8 +2,11 @@
 
 <div class="iframe-container">
 
- ![sharingan_gif_by_zenitsu555_dfmjhu4](https://github.com/88vipProdev/88vipProdev/assets/78223210/3651ac1f-c3ef-4022-8f4e-995ffa9e4de6)
- >
+
+
+
+<p width = 100% height = 300px> ![sharingan_gif_by_zenitsu555_dfmjhu4](https://github.com/88vipProdev/88vipProdev/assets/78223210/3651ac1f-c3ef-4022-8f4e-995ffa9e4de6)
+ ></p>
 </div>
  
 
