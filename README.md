@@ -16,7 +16,7 @@
   <img src="image/youngitachi.png" >
 
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nguyentunglamICTU?locale=vi_VN) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](hhttps://www.linkedin.com/in/nguy%E1%BB%85n-l%C3%A2m-606133229/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nguyentunglamICTU?locale=vi_VN) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguy%E1%BB%85n-l%C3%A2m-606133229/) 
 
 # 💻Tech Stack
 
