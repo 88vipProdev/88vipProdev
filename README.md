@@ -8,12 +8,12 @@
 🛠 akatsuki clan  🛠
 🛠 88vipPro  🛠
 </div>
-
+s
 
 
 
 ## 🌐Socials
-  <img src="https://github.com/88vipProdev/88vipProdev/assets/78223210/112d9963-3aec-4730-a7d1-0d982125a818" width=100% height =1000px>
+  <div><img src="https://github.com/88vipProdev/88vipProdev/assets/78223210/112d9963-3aec-4730-a7d1-0d982125a818" width=304px height =540px></div>
 
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nguyentunglamICTU?locale=vi_VN) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguy%E1%BB%85n-l%C3%A2m-606133229/) 
